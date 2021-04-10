@@ -2,6 +2,8 @@
 
 due by 11:59pm on April 9 (note that this will be our final assignment before the Final Project)
 
+*submission under "mod3writeup.html"*
+
 Design studies are intensive, longitudinal, collaborative design activities. While they're a powerful tool in your visualization development toolkit, they also take a bit more energy than is reasonable for a module-sized assignment :-) To get you some practice with the design study methodology, you'll conduct a miniature design study with yourself as both the designer and stakeholder (with some help from external sources). You will submit your design study as a PDF write-up with each of the numbered components below (note that it's totally ok to keep your responses brief). Please feel free to add any additional materials to your submission repository as usual and be sure to include any relevant materials like source code for running your visualizations if you choose to include interaction or other components in your design. 
 
 ## The Problem: 
